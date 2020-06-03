@@ -60,17 +60,17 @@
 
 ## Contribuir
 
-Just fork and open a pull request. We're still refining how content should me managed/formatted and will discuss details in merge request.
+Apenas fork esse repositório e abra um pull request. Ainda estamos refinando como o conteúdo deve ser gerenciado/formatado e discutiremos detalhes no pull request.
 
-Please avoid using links to paid services, like pointing a movie to Netflix or books to Amazon.
+Evite usar links para serviços pagos, como apontar um filme para a Netflix ou livros para a Amazon.
 
-If you're adding a content within a specific language that is not english, please add em Emoji in the end of the item.
+Se você estiver adicionando um conteúdo em um idioma específico que não seja o inglês, adicione Emoji no final do item.
 
-You can also check for [issues marked as "Help Wanted"](https://github.com/rafaelcavalcante/awesome-anti-racism/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) to contribute.
+Você também pode procurar por [problemas marcados como "Help Wanted"] (https://github.com/rafaelcavalcante/awesome-anti-racism/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted % 22) para contribuir.
 
 
-## Credits
+## Créditos
 
-Based on Sindre Sorhus's [Awesome]( https://github.com/sindresorhus/awesome) project.
+Baseado no livro de Sindre Sorhus [Awesome]( https://github.com/sindresorhus/awesome).
 
-Icon by [Freepik](https://www.flaticon.com/br/autores/freepik)
+Icone por [Freepik](https://www.flaticon.com/br/autores/freepik)
